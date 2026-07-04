@@ -168,4 +168,3 @@ Future extensions can include:
 * Multi-language support
 * Auto-updates
 * Thermal printer & barcode scanner integration
-
