@@ -1,0 +1,66 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# =========================
+# Distribution / Build
+# =========================
+build/
+dist/
+*.spec
+
+# PyInstaller
+*.manifest
+*.spec
+
+# =========================
+# Database (local data)
+# =========================
+database/shop.db
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# App Generated Files
+# =========================
+backups/
+invoices/
+exports/
+imports/
+logs/
+temp/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# Optional: cache / runtime
+# =========================
+*.log

@@ -1,0 +1,16 @@
+{
+  "shop_name": "",
+  "owner_name": "",
+  "phone": "",
+  "address": "",
+  "gst_number": "",
+  "logo_path": "",
+  "default_printer": "",
+  "theme": "dark",
+  "color_theme": "blue",
+  "currency_symbol": "\u20b9",
+  "invoice_prefix": "INV",
+  "low_stock_default": 5,
+  "first_run_complete": false,
+  "backup_on_exit": true
+}
